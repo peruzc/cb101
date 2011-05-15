@@ -126,7 +126,6 @@ Optional Methods
 		};
 
 		//Register Layouts
-		/*
 		layouts = [
 			{ name = "test",
 		 	  file = "Layout.Test.cfm",
@@ -139,7 +138,6 @@ Optional Methods
 			  folders = "simple"
 			}
 		];
-		*/
 
 		//WireBox Integration
 		wireBox = {
